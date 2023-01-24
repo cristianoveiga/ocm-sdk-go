@@ -5875,7 +5875,7 @@
           "action": {
             "$ref": "#/components/schemas/Action"
           },
-          "resource_type": {
+          "resource": {
             "type": "string"
           }
         }
